@@ -1,0 +1,23 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "node scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxCosta/scheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxCosta/scheduler/issues"
+  },
+  "homepage": "https://github.com/xxCosta/scheduler#readme",
+  "dependencies": {
+    "node-schedule": "^2.1.1"
+  }
+}
